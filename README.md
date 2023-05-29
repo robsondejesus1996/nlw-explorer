@@ -4,7 +4,7 @@
 
 ## Link do Projeto 🖥️
 
-Visualizar projeto através do [desse link](https://github.com/robsondejesus1996/rj-explorer)
+Visualizar projeto através do [link](https://robsondejesus1996.github.io/rj-explorer/)
 <br/>
 Esse é um projeto Web responsivo de uma cápsula do tempo, em formato de portfólio. Nele são exibidos memorias em uma linha do tempo.
 
